@@ -11,7 +11,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        serif: ["Bree", ...defaultTheme.fontFamily.serif],
+        serif: ["Bitter", ...defaultTheme.fontFamily.serif],
       },
     },
   },
